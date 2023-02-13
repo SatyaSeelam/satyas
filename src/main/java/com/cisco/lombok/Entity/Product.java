@@ -9,6 +9,7 @@ import lombok.Data;
 @Entity
 @Data
 public class Product {
+	//hllo
 	@Id
 	@GeneratedValue
 	private Integer pid;
